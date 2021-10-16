@@ -1,0 +1,20 @@
+body {
+  background-color: lightpink;
+  font-family: 'Grandstander';
+  font-size: 14px;
+}
+.poop {
+  position: absolute;
+  top: 419.5px;
+  left: 214px;
+}
+.donut {
+  position: absolute;
+  top: 0px;
+  left: 206px;
+}
+.final {
+  position: absolute;
+  top: 0px;
+  left: 205px;
+}
